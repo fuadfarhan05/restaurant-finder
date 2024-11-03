@@ -1,0 +1,2178 @@
+{
+    "businesses": [
+      {
+        "alias": "betong-khao-man-gai-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "2000",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "thai",
+            "title": "Thai"
+          },
+          {
+            "alias": "halal",
+            "title": "Halal"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.71893,
+          "longitude": -74.00095
+        },
+        "display_phone": "(347) 386-8032",
+        "distance": 3078.850627316657,
+        "id": "GIlunJr5LNcU1mHCchiKPA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YMfc5QBXati07EKCs4UitA/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "261 Canal St",
+          "address2": null,
+          "address3": "",
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "261 Canal St",
+            "New York, NY 10013"
+          ],
+          "state": "NY",
+          "zip_code": "10013"
+        },
+        "name": "Betong - Khao Man Gai",
+        "phone": "+13473868032",
+        "price": "$$",
+        "rating": 4.5,
+        "review_count": 130,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/betong-khao-man-gai-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "the-halal-guys-new-york-2",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "http://www.thehalalguysny.com/menu",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "0400",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 0,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "0400",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 1,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "0400",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 2,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "0400",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 3,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "0400",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 4,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "0500",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 5,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "0500",
+                "is_overnight": false,
+                "start": "0000"
+              },
+              {
+                "day": 6,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+          },
+          {
+            "alias": "halal",
+            "title": "Halal"
+          },
+          {
+            "alias": "hotdogs",
+            "title": "Fast Food"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.761861,
+          "longitude": -73.979306
+        },
+        "display_phone": "(347) 527-1505",
+        "distance": 7260.3880339480775,
+        "id": "xEnNFXtMLDF5kZDxfaCJgA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MYnXprCKOS0JlpQJRMOR7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "W 53rd Street And 6th Ave",
+          "address2": null,
+          "address3": "",
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "W 53rd Street And 6th Ave",
+            "New York, NY 10019"
+          ],
+          "state": "NY",
+          "zip_code": "10019"
+        },
+        "name": "The Halal Guys",
+        "phone": "+13475271505",
+        "price": "$$",
+        "rating": 4.2,
+        "review_count": 10442,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/the-halal-guys-new-york-2?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "peri-peri-grill-house-brooklyn",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 1,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 2,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 3,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 4,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 5,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 6,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "halal",
+            "title": "Halal"
+          },
+          {
+            "alias": "portuguese",
+            "title": "Portuguese"
+          },
+          {
+            "alias": "african",
+            "title": "African"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.68475877503596,
+          "longitude": -73.9291163
+        },
+        "display_phone": "(917) 966-8614",
+        "distance": 4421.0507779708605,
+        "id": "KPGZ6zr6lUX9YROjGcUbtw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2mcosMNL9h3R1gZ7H8SUIA/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "235 Malcolm X Blvd",
+          "address2": null,
+          "address3": "",
+          "city": "Brooklyn",
+          "country": "US",
+          "display_address": [
+            "235 Malcolm X Blvd",
+            "Brooklyn, NY 11233"
+          ],
+          "state": "NY",
+          "zip_code": "11233"
+        },
+        "name": "Peri Peri Grill House",
+        "phone": "+19179668614",
+        "price": "$$",
+        "rating": 4.5,
+        "review_count": 200,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/peri-peri-grill-house-brooklyn?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "salma-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "http://www.salmaeastvillage.com/our-menu/",
+          "open24_hours": null,
+          "waitlist_reservation": true
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 0,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 6,
+                "end": "2230",
+                "is_overnight": false,
+                "start": "1130"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "lebanese",
+            "title": "Lebanese"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.730369942268375,
+          "longitude": -73.9837222575225
+        },
+        "display_phone": "(917) 261-4907",
+        "distance": 3778.1255127905324,
+        "id": "IA3EQ0Ilx0yI7dNYnq-YGQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1HF8xHpI--UJihYiycSEkg/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "351 E 12th St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "351 E 12th St",
+            "New York, NY 10003"
+          ],
+          "state": "NY",
+          "zip_code": "10003"
+        },
+        "name": "Salma",
+        "phone": "+19172614907",
+        "price": "$$",
+        "rating": 4.6,
+        "review_count": 211,
+        "transactions": [
+          "pickup",
+          "delivery",
+          "restaurant_reservation"
+        ],
+        "url": "https://www.yelp.com/biz/salma-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "namkeen-brooklyn",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 0,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 4,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 5,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 6,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+          },
+          {
+            "alias": "halal",
+            "title": "Halal"
+          },
+          {
+            "alias": "waffles",
+            "title": "Waffles"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.712887,
+          "longitude": -73.962588
+        },
+        "display_phone": "(347) 658-3383",
+        "distance": 2292.348261060636,
+        "id": "fiPKqhW7BGq3aURuLPQn9Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rT3kb7m0Uwi_2l9Fw54aIw/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "338 Bedford Ave",
+          "address2": null,
+          "address3": "",
+          "city": "Brooklyn",
+          "country": "US",
+          "display_address": [
+            "338 Bedford Ave",
+            "Brooklyn, NY 11249"
+          ],
+          "state": "NY",
+          "zip_code": "11249"
+        },
+        "name": "Namkeen",
+        "phone": "+13476583383",
+        "price": "$$",
+        "rating": 4.1,
+        "review_count": 155,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/namkeen-brooklyn?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "al-badawi-brooklyn-2",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 1,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+          },
+          {
+            "alias": "soup",
+            "title": "Soup"
+          },
+          {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.69059,
+          "longitude": -73.99503
+        },
+        "display_phone": "(718) 689-5888",
+        "distance": 1487.3274979722357,
+        "id": "SwFr8vVU9j2Wlo-QejpRGA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Hsz_gTKjpsZTpb7-gnqV2A/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "151 Atlantic Ave",
+          "address2": "",
+          "address3": null,
+          "city": "Brooklyn",
+          "country": "US",
+          "display_address": [
+            "151 Atlantic Ave",
+            "Brooklyn, NY 11201"
+          ],
+          "state": "NY",
+          "zip_code": "11201"
+        },
+        "name": "Al Badawi",
+        "phone": "+17186895888",
+        "price": "$$",
+        "rating": 4.4,
+        "review_count": 205,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/al-badawi-brooklyn-2?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "lucky-rabbit-noodles-brooklyn",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 0,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 1,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 2,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 3,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 4,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 5,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 6,
+                "end": "2030",
+                "is_overnight": false,
+                "start": "1200"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "asianfusion",
+            "title": "Asian Fusion"
+          },
+          {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+          },
+          {
+            "alias": "noodles",
+            "title": "Noodles"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.70375,
+          "longitude": -73.98809
+        },
+        "display_phone": "(347) 916-0098",
+        "distance": 1100.3110568061074,
+        "id": "7bpZZUpEclhn29wWVqFsKA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hD5Y2UP7w-fCcKaWMcLfZg/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "140 Plymouth St",
+          "address2": "",
+          "address3": null,
+          "city": "Brooklyn",
+          "country": "US",
+          "display_address": [
+            "140 Plymouth St",
+            "Brooklyn, NY 11201"
+          ],
+          "state": "NY",
+          "zip_code": "11201"
+        },
+        "name": "Lucky Rabbit Noodles",
+        "phone": "+13479160098",
+        "price": "$$",
+        "rating": 4.5,
+        "review_count": 99,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/lucky-rabbit-noodles-brooklyn?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "taco-mahal-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "http://www.tacomahalnyc.com/menu/",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "indpak",
+            "title": "Indian"
+          },
+          {
+            "alias": "tacos",
+            "title": "Tacos"
+          },
+          {
+            "alias": "latin",
+            "title": "Latin American"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.73235768476899,
+          "longitude": -74.00332645767203
+        },
+        "display_phone": "(646) 719-1553",
+        "distance": 4469.657570711449,
+        "id": "SP4bvMvxel_UPdof_er3HA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wo7f5lvsgtQ5fOeWw6z83A/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "73 7th Ave S",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "73 7th Ave S",
+            "New York, NY 10014"
+          ],
+          "state": "NY",
+          "zip_code": "10014"
+        },
+        "name": "Taco Mahal",
+        "phone": "+16467191553",
+        "price": "$$",
+        "rating": 4.4,
+        "review_count": 937,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/taco-mahal-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "hometown-bar-b-que-brooklyn-3",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 1,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 2,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 3,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 4,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 5,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 6,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "bbq",
+            "title": "Barbeque"
+          },
+          {
+            "alias": "smokehouse",
+            "title": "Smokehouse"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.67486,
+          "longitude": -74.01602
+        },
+        "display_phone": "(347) 294-4644",
+        "distance": 3938.8704814160205,
+        "id": "Ms3CAGddVbgetiQrpzqxPQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gYczhEn2754rFxhSyx8j6w/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "454 Van Brunt St",
+          "address2": "",
+          "address3": null,
+          "city": "Brooklyn",
+          "country": "US",
+          "display_address": [
+            "454 Van Brunt St",
+            "Brooklyn, NY 11231"
+          ],
+          "state": "NY",
+          "zip_code": "11231"
+        },
+        "name": "Hometown Bar-B-Que",
+        "phone": "+13472944644",
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 1720,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "los-tacos-no-1-new-york-3",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "https://www.lostacos1.com/menu/",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "tacos",
+            "title": "Tacos"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.7575067,
+          "longitude": -73.9877717
+        },
+        "display_phone": "(212) 574-4696",
+        "distance": 6814.709842327982,
+        "id": "SULHf6nGQ8sK0UpG1XU30w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5wEe4FCwda16knmBHSsX0Q/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "229 W 43rd St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "229 W 43rd St",
+            "New York, NY 10036"
+          ],
+          "state": "NY",
+          "zip_code": "10036"
+        },
+        "name": "Los Tacos No.1",
+        "phone": "+12125744696",
+        "price": "$$",
+        "rating": 4.7,
+        "review_count": 3220,
+        "transactions": [
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/los-tacos-no-1-new-york-3?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "rasa-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "https://rasanyc.com/rasa-menu.pdf",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 0,
+                "end": "2130",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 1,
+                "end": "2130",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 2,
+                "end": "2130",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 3,
+                "end": "2130",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 4,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 5,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1130"
+              },
+              {
+                "day": 6,
+                "end": "2130",
+                "is_overnight": false,
+                "start": "1130"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "malaysian",
+            "title": "Malaysian"
+          },
+          {
+            "alias": "thai",
+            "title": "Thai"
+          },
+          {
+            "alias": "halal",
+            "title": "Halal"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.7327654,
+          "longitude": -73.9975674
+        },
+        "display_phone": "(212) 254-1888",
+        "distance": 4312.918565094342,
+        "id": "EbX_9tqAJs4gW51gZpOB7g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jg2q4r399siUWCfFBeVb1A/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "25 W 8th St",
+          "address2": null,
+          "address3": "",
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "25 W 8th St",
+            "New York, NY 10011"
+          ],
+          "state": "NY",
+          "zip_code": "10011"
+        },
+        "name": "Rasa",
+        "phone": "+12122541888",
+        "price": "$$",
+        "rating": 4.1,
+        "review_count": 891,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/rasa-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "birria-les-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "0400",
+                "is_overnight": true,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "0400",
+                "is_overnight": true,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "0000",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "halal",
+            "title": "Halal"
+          },
+          {
+            "alias": "tacos",
+            "title": "Tacos"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.719628849397935,
+          "longitude": -73.98711402147562
+        },
+        "display_phone": "(646) 789-7777",
+        "distance": 2650.0045910933327,
+        "id": "G2PCaDt_VC4O4w6uRMpE9A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ShsfArlBSX2qjQhuBRU12A/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "127 Rivington St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "127 Rivington St",
+            "New York, NY 10002"
+          ],
+          "state": "NY",
+          "zip_code": "10002"
+        },
+        "name": "Birria LES",
+        "phone": "+16467897777",
+        "price": "$$",
+        "rating": 4.2,
+        "review_count": 156,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/birria-les-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "yemeni-restaurant-and-shawarma-mediterranean-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 6,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1000"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+          },
+          {
+            "alias": "egyptian",
+            "title": "Egyptian"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.811392,
+          "longitude": -73.953498
+        },
+        "display_phone": "(646) 791-5022",
+        "distance": 12951.571010302525,
+        "id": "kdVfRqGWwZiBYS2zlKBcMA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I6nZnYiX36Nli97Jm_XupQ/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "377 W 125th St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "377 W 125th St",
+            "New York, NY 10027"
+          ],
+          "state": "NY",
+          "zip_code": "10027"
+        },
+        "name": "Yemeni Restaurant & Shawarma Mediterranean",
+        "phone": "+16467915022",
+        "price": "$$",
+        "rating": 4.6,
+        "review_count": 30,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/yemeni-restaurant-and-shawarma-mediterranean-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "shuka-new-york-3",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "https://www.shukanewyork.com/menu",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "1600",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 0,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1700"
+              },
+              {
+                "day": 1,
+                "end": "1600",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1700"
+              },
+              {
+                "day": 2,
+                "end": "1600",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1700"
+              },
+              {
+                "day": 3,
+                "end": "1600",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1700"
+              },
+              {
+                "day": 4,
+                "end": "1600",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1700"
+              },
+              {
+                "day": 5,
+                "end": "1530",
+                "is_overnight": false,
+                "start": "1030"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1700"
+              },
+              {
+                "day": 6,
+                "end": "1530",
+                "is_overnight": false,
+                "start": "1030"
+              },
+              {
+                "day": 6,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1700"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.72707,
+          "longitude": -74.00283
+        },
+        "display_phone": "(212) 475-7500",
+        "distance": 3931.9964533370858,
+        "id": "Rj2ACaJcbroJLPDhRhzvBw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mx112hxMlB1S8zl9GI9dBg/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "38 MacDougal St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "38 MacDougal St",
+            "New York, NY 10012"
+          ],
+          "state": "NY",
+          "zip_code": "10012"
+        },
+        "name": "Shuka",
+        "phone": "+12124757500",
+        "price": "$$",
+        "rating": 4.3,
+        "review_count": 1124,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/shuka-new-york-3?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "ayat-nyc-brooklyn",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 1,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 2,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 3,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 4,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 5,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 6,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "arabian",
+            "title": "Arabic"
+          },
+          {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.624229,
+          "longitude": -74.030936
+        },
+        "display_phone": "",
+        "distance": 9152.302735783322,
+        "id": "jwssDDRcC88xejYw0ZyFkw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ErX79cFe0Xto2LoYrWNBYQ/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "8504 3rd Ave",
+          "address2": "",
+          "address3": null,
+          "city": "Brooklyn",
+          "country": "US",
+          "display_address": [
+            "8504 3rd Ave",
+            "Brooklyn, NY 11209"
+          ],
+          "state": "NY",
+          "zip_code": "11209"
+        },
+        "name": "Ayat NYC",
+        "phone": "",
+        "price": "$$",
+        "rating": 4.3,
+        "review_count": 276,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/ayat-nyc-brooklyn?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "taboonette-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "http://taboonette.com/menu/",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 1,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 2,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 3,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 4,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 5,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              },
+              {
+                "day": 6,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1000"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+          },
+          {
+            "alias": "mideastern",
+            "title": "Middle Eastern"
+          },
+          {
+            "alias": "newamerican",
+            "title": "New American"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.7346038818359,
+          "longitude": -73.9928283691406
+        },
+        "display_phone": "(212) 510-7881",
+        "distance": 4383.071525327953,
+        "id": "owYYuyLvlsdjLz68c3SSfg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YG7NvVUvAqXGrL210-UuTw/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "30 E 13th St",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "30 E 13th St",
+            "New York, NY 10003"
+          ],
+          "state": "NY",
+          "zip_code": "10003"
+        },
+        "name": "Taboonette",
+        "phone": "+12125107881",
+        "price": "$$",
+        "rating": 4.3,
+        "review_count": 1073,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/taboonette-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "au-zaatar-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1100"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "lebanese",
+            "title": "Lebanese"
+          },
+          {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.728901,
+          "longitude": -73.981185
+        },
+        "display_phone": "(212) 254-5660",
+        "distance": 3599.341932494707,
+        "id": "0FaLilJs2VN83hOEBcBnPg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r2t0ymSPAW2x3hOZPC6q6g/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "188 Avenue A",
+          "address2": "",
+          "address3": "",
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "188 Avenue A",
+            "New York, NY 10009"
+          ],
+          "state": "NY",
+          "zip_code": "10009"
+        },
+        "name": "Au Za'atar",
+        "phone": "+12122545660",
+        "price": "$$",
+        "rating": 4.2,
+        "review_count": 1782,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/au-zaatar-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "top-thai-greenwich-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": "http://www.topthainyc.com",
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 0,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 0,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1630"
+              },
+              {
+                "day": 1,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 1,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1630"
+              },
+              {
+                "day": 2,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 2,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1630"
+              },
+              {
+                "day": 3,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 3,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1630"
+              },
+              {
+                "day": 4,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1630"
+              },
+              {
+                "day": 5,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1630"
+              },
+              {
+                "day": 6,
+                "end": "1500",
+                "is_overnight": false,
+                "start": "1100"
+              },
+              {
+                "day": 6,
+                "end": "2200",
+                "is_overnight": false,
+                "start": "1630"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "thai",
+            "title": "Thai"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          },
+          {
+            "alias": "halal",
+            "title": "Halal"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.729771,
+          "longitude": -73.999392
+        },
+        "display_phone": "(646) 726-4418",
+        "distance": 4068.2669063961853,
+        "id": "wGFSTTB6b4MHJJUzBnVJeg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4Hg5Af7A2RGpkDdDNLD9cg/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "235 Sullivan St",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "235 Sullivan St",
+            "New York, NY 10012"
+          ],
+          "state": "NY",
+          "zip_code": "10012"
+        },
+        "name": "Top Thai Greenwich",
+        "phone": "+16467264418",
+        "price": "$$",
+        "rating": 4.4,
+        "review_count": 2072,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/top-thai-greenwich-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "rowdy-rooster-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": false,
+            "open": [
+              {
+                "day": 0,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 1,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 2,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 3,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "1200"
+              },
+              {
+                "day": 6,
+                "end": "2100",
+                "is_overnight": false,
+                "start": "1200"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "indpak",
+            "title": "Indian"
+          },
+          {
+            "alias": "chickenshop",
+            "title": "Chicken Shop"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.728473350506725,
+          "longitude": -73.98500709999999
+        },
+        "display_phone": "",
+        "distance": 3581.6001249063133,
+        "id": "ZNJ4ij7_xOlKSeMeEh1khA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ju0To9zgCvbWPYv_HCjsDA/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "149 1st Ave",
+          "address2": "",
+          "address3": null,
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "149 1st Ave",
+            "New York, NY 10003"
+          ],
+          "state": "NY",
+          "zip_code": "10003"
+        },
+        "name": "Rowdy Rooster",
+        "phone": "",
+        "price": "$$",
+        "rating": 4.3,
+        "review_count": 259,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/rowdy-rooster-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      },
+      {
+        "alias": "safari-new-york",
+        "attributes": {
+          "business_temp_closed": null,
+          "menu_url": null,
+          "open24_hours": null,
+          "waitlist_reservation": null
+        },
+        "business_hours": [
+          {
+            "hours_type": "REGULAR",
+            "is_open_now": true,
+            "open": [
+              {
+                "day": 1,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "0700"
+              },
+              {
+                "day": 2,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "0700"
+              },
+              {
+                "day": 3,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "0700"
+              },
+              {
+                "day": 4,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "0700"
+              },
+              {
+                "day": 5,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "0700"
+              },
+              {
+                "day": 6,
+                "end": "2300",
+                "is_overnight": false,
+                "start": "0700"
+              }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "alias": "somali",
+            "title": "Somali"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "juicebars",
+            "title": "Juice Bars & Smoothies"
+          }
+        ],
+        "coordinates": {
+          "latitude": 40.800659,
+          "longitude": -73.952752
+        },
+        "display_phone": "(646) 964-4252",
+        "distance": 11786.716894117257,
+        "id": "5mOzZ17qU_8ijlP54Q206Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pvEwDHQZzUBhZgNojQLbNw/o.jpg",
+        "is_closed": false,
+        "location": {
+          "address1": "55 St Nicholas Ave",
+          "address2": null,
+          "address3": "",
+          "city": "New York",
+          "country": "US",
+          "display_address": [
+            "55 St Nicholas Ave",
+            "New York, NY 10026"
+          ],
+          "state": "NY",
+          "zip_code": "10026"
+        },
+        "name": "Safari",
+        "phone": "+16469644252",
+        "price": "$$",
+        "rating": 4.4,
+        "review_count": 241,
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "url": "https://www.yelp.com/biz/safari-new-york?adjust_creative=FhzJmakIrrlV42ZZDgeTiw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FhzJmakIrrlV42ZZDgeTiw"
+      }
+    ],
+    "region": {
+      "center": {
+        "latitude": 40.696566751579965,
+        "longitude": -73.97918701171875
+      }
+    },
+    "total": 1600
+  }
