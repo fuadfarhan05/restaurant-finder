@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EatZ Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2E8B57; /* Rich green color */
+        }
+
+        .center {
+            font-size: 25px;
+            color: #fff; /* Base text color */
+            transition: text-shadow 0.3s ease; /* Smooth transition for the glow effect */
+        }
+
+        .center:hover {
+            text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 15px yellow; /* Creates a glowing effect */
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .card {
+            width: 300px;
+            border: solid; /* Remove default border */
+            border-radius: 12px; /* More rounded corners */
+            border: solid 2px;
+            border-color: #0cf471;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Deeper shadow for a lifted effect */
+            background-color: #fff;
+            transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+        }
+
+        .card:hover {
+            transform: translateY(-5px) rotateZ(-2deg); /* Lift and tilt effect on hover */
+            box-shadow: 0 50px 50px rgba(255, 247, 0, 0.3); /* Enhance shadow on hover */
+        }
+
+        .card img {
+            width: 100%;
+            height: 200px; /* Fixed height for uniformity */
+            object-fit: cover; /* Ensures images cover the area without distortion */
+        }
+
+        .card-content {
+            padding: 15px;
+            color: #2E8B57;
+        }
+
+        .card h2 {
+            font-size: 1.5em;
+            margin: 0;
+            color: #22aa0d;
+            text-align: center;
+        }
+
+        .card p {
+            margin: 8px 0;
+            color: #000000;
+        }
+
+        /* Additional styling for better visual hierarchy */
+        .card p {
+            font-size: 0.9em; /* Slightly smaller font size for address and hours */
+        }
+
+        /* Style for "or" text */
+        .or-text {
+            text-align: center;
+            color: #fff; /* Change color as needed */
+            font-size: 1.5em; /* Adjust font size */
+            height: 50px; /* Set height */
+            line-height: 50px; /* Center the text vertically */
+            margin: 10px 0; /* Spacing above and below */
+        }
+
+        p{
+            margin: 20px;
+            padding:10px;
+            text-align: center;
+            background-color: #9bdb91;
+            border-radius: 50px;
+            border:solid;
+            border-color:#2E8B57;
+            font-weight: bold;
+
+            
+        }
+
+        .or-text{
+            font-size:45px;
+            font-weight: bold;
+
+        }
+
+        .or-text:hover {
+
+            text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 15px yellow; /* Creates a glowing effect */
+        }
+
+        a{
+            color:rgb(88, 106, 94);
+            font-weight: bold;
+            font-size:25px;
+            text-align: center;
+            border-radius:25px;
+            background:#0cf471;
+            border: solid;
+            border-color:#248951;
+            padding:10px;
+            text-decoration: none;
+
+        }
+
+        a:hover {
+            text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 15px yellow; /* Creates a glowing effect */
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <h1 style="text-align:center">EatZ</h1>
+    </div>
+    <div class="container" id="restaurantContainer"></div>
+    <a href="index.html" style="display: block; width: max-content; margin: 0 auto; font-size: 20px;">
+        Play Game
+    </a>
+    
+</body>
+</html>

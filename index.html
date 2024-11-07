@@ -3,11 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halal Restaurants in NYC</title>
+    <title>EatZ</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color: #469d4f;
+        }
+        h1 {
+            color:white;
         }
         .container {
             display: flex;
@@ -44,12 +47,12 @@
 </head>
 <body>
 
-    <h1 style="text-align:center">Halal Restaurants in NYC</h1>
+    <h1 style="text-align:center">EatZ</h1>
     <div class="container" id="restaurantContainer"></div>
 
     <script>
         // Fetch the data from the API
-        fetch("sample.json")
+        fetch("http://127.0.0.1:5000/getHalalRestaurant/newyorkcity/2")
             .then(response => response.json())
             .then(data => {
                 const container = document.getElementById("restaurantContainer");
